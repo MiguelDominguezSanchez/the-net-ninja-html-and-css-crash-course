@@ -3,7 +3,7 @@
 #### The Net Ninja
 ### Black Belt Your Web Skills
 
-## #1 – Introduction
+### 1 – Introduction
 
 – No prior HTML or CSS knowledge is required
 
@@ -65,14 +65,23 @@ Summary
 
 /.../
 
-## #2 – HTML Basics
-## #3 – HTML Forms
-## #4 – CSS Basics
-## #5 – CSS Classes & Selectors
-## #6 – HTML 5 Semantics
-## #7 – Chrome Dev Tools
-## #8 – CSS Layout & Position
-## #9 – Pseudo Classe & Elements
-## #10 – Intro to Media Querries
-## #11 – Next Steps
+### 2 – HTML Basics
+### 3 – HTML Forms
+### 4 – CSS Basics
+### 5 – CSS Classes & Selectors
+### 6 – HTML 5 Semantics
+### 7 – Chrome Dev Tools
+### 8 – CSS Layout & Position
+### 9 – Pseudo Classe & Elements
+### 10 – Intro to Media Querries
+### 11 – Next Steps
 
+Summary
+
+    – Learnt some of the most common HTML  tags in web pages
+
+        – p, ul, li, div, a, img, etc
+
+    – Talked about attributes (src, href, cite, alt, etc)
+
+    – How to create comments in an Html file
