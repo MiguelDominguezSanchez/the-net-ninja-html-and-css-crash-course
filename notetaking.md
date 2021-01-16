@@ -157,9 +157,30 @@ For the footer of a website
 
 ### 7 – Chrome Dev Tools
 
-
-
 ### 8 – CSS Layout & Position
-### 9 – Pseudo Classe & Elements
+
+Postion property
+
+    – Static
+        HTML elments have this default value static to begin with,
+        there is no special position or qualities given to this,
+        it does keep the element in normal flow of the page
+
+    – Relative
+        if we set an element position to be relative,
+        then it can sift the element arround the page
+        relative to its original position on the page
+
+    – Fixed
+        that position to certaiin element relative to the viewport,
+        the viewport is part of the browser that we see the page on
+
+    – Absolute
+        allows us to position things absolutely relative to its closet parent, which is also being given a position property if its not static
+
+    – Sticky
+        a mixture of 'static' and 'fixed'
+
+### 9 – Pseudo Classes & Elements
 ### 10 – Intro to Media Queries
 ### 11 – Next Steps
