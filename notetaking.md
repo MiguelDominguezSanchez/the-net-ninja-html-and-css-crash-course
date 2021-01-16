@@ -191,4 +191,16 @@ Postion property
     Pseudo Elements
 
 ### 10 – Intro to Media Queries
+
+Responsive Design
+
+    – Media Queries
+        Tell the browser how to style an element at particular viewport dimensions
+    
+    – Viewport meta tag
+        Tells the browser what width the viewport should be
+
+    – Responsive images
+        Only load smaller images for mobile devices
+
 ### 11 – Next Steps
