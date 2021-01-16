@@ -66,15 +66,6 @@ Summary
 /.../
 
 ### 2 – HTML Basics
-### 3 – HTML Forms
-### 4 – CSS Basics
-### 5 – CSS Classes & Selectors
-### 6 – HTML 5 Semantics
-### 7 – Chrome Dev Tools
-### 8 – CSS Layout & Position
-### 9 – Pseudo Classe & Elements
-### 10 – Intro to Media Querries
-### 11 – Next Steps
 
 Summary
 
@@ -85,3 +76,27 @@ Summary
     – Talked about attributes (src, href, cite, alt, etc)
 
     – How to create comments in an Html file
+
+### 3 – HTML Forms
+
+Summary
+
+    – How to create a webform and how the 'action' attribuute is for
+
+    – Seen a lot of the most common input types
+
+        – text, email, password, radio, select, textarea
+
+    – How to use labels, the id attribute & the name attribute
+
+    – How forms are submitted and validated
+
+
+### 4 – CSS Basics
+### 5 – CSS Classes & Selectors
+### 6 – HTML 5 Semantics
+### 7 – Chrome Dev Tools
+### 8 – CSS Layout & Position
+### 9 – Pseudo Classe & Elements
+### 10 – Intro to Media Querries
+### 11 – Next Steps
