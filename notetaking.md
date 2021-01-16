@@ -125,6 +125,14 @@ Summary
     – Default browser styles
 
 ### 5 – CSS Classes & Selectors
+
+The Cascade
+
+    Inheritance
+
+        – HTML elements can inherit CSS properties that are applied to their parents
+
+
 ### 6 – HTML 5 Semantics
 ### 7 – Chrome Dev Tools
 ### 8 – CSS Layout & Position
