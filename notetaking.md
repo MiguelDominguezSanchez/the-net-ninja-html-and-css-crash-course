@@ -182,5 +182,13 @@ Postion property
         a mixture of 'static' and 'fixed'
 
 ### 9 – Pseudo Classes & Elements
+
+    Pseudo classes
+
+        – Style elements when they´re in  a parrticular state
+            – hover, focus, first child of a parent
+
+    Pseudo Elements
+
 ### 10 – Intro to Media Queries
 ### 11 – Next Steps
