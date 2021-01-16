@@ -3,6 +3,8 @@
 #### The Net Ninja
 ### Black Belt Your Web Skills
 
+## #1 – Introduction
+
 – No prior HTML or CSS knowledge is required
 
 – Set up a local development environment
@@ -37,12 +39,40 @@ Essentially CSS is a separate languuage that goes hand-in-hand with HTML, and wh
 
 So whereas HTML is very much to do with providing the actual content and structure to the browser, CSS then takes on the role of styling that content, so much like a builder would form the structure of a house, a painter and decorator would then come in and style it to make it look nicer.
 
+/.../
+
 – First thing is to setup a  local development environment
 
     – Code Editor
-    – Browsers
+        – Visual Studio Code
+    – Browser
+        – Google´s Chrome Developer Tools Panel
+            – ie Reverse Engineer a webpage
+
+Summary
+
+    – HTML is markup language to structure content
+
+    – CSS is the language used to style web pages
+
+    – How to create HTML fike using VS Code as our editor
+
+    – Seen what HTML tags are and how we use them
+
+    – Know what the visible part of a web page gooes in the <body> tag
+
+    – Seen how to preview the HTML page in a browser
 
 /.../
 
-/.../
+## #2 – HTML Basics
+## #3 – HTML Forms
+## #4 – CSS Basics
+## #5 – CSS Classes & Selectors
+## #6 – HTML 5 Semantics
+## #7 – Chrome Dev Tools
+## #8 – CSS Layout & Position
+## #9 – Pseudo Classe & Elements
+## #10 – Intro to Media Querries
+## #11 – Next Steps
 
