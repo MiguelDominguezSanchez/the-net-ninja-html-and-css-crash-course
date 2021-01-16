@@ -156,6 +156,9 @@ For the header of a website
 For the footer of a website
 
 ### 7 – Chrome Dev Tools
+
+
+
 ### 8 – CSS Layout & Position
 ### 9 – Pseudo Classe & Elements
 ### 10 – Intro to Media Queries
