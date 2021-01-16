@@ -134,6 +134,27 @@ The Cascade
 
 
 ### 6 – HTML 5 Semantics
+
+HTML5 Semantic Tags
+
+<main>
+For the main content of a webpage, unique to that page
+
+<section>
+Defines a certain section of a webpage (e.g blog listt, contact info)
+
+<article>
+Defines a bit of coontent which makes up an article (e.g. a blog post)
+
+<aside>
+Defines some content related to something else (e.g similar blogs)
+
+<header>
+For the header of a website
+
+<footer>´s a me, marrio
+For the footer of a website
+
 ### 7 – Chrome Dev Tools
 ### 8 – CSS Layout & Position
 ### 9 – Pseudo Classe & Elements
