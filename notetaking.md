@@ -93,10 +93,41 @@ Summary
 
 
 ### 4 – CSS Basics
+
+CSS (Style Sheets)
+
+– style sheet - a list of CSS rules / rule sets
+
+– Inline elements
+
+    – Dont take up any more rooom than thier content needs
+
+    – span, img, strong, em, a and more...
+
+– Block Level Elements
+
+    – Take up the whole width of a page regardless of content
+
+    – p, div, h1, h2, h3, ul, li and more...
+
+Summary
+
+    – What CSS is and how to add it to a webpage
+
+    – Basic selectors and some different declarations / properties
+
+    – Hex codes and the VS c¡Code color picker
+
+    – Inline and block-level elements (and inline-block)
+
+    – Marging & Padding
+
+    – Default browser styles
+
 ### 5 – CSS Classes & Selectors
 ### 6 – HTML 5 Semantics
 ### 7 – Chrome Dev Tools
 ### 8 – CSS Layout & Position
 ### 9 – Pseudo Classe & Elements
-### 10 – Intro to Media Querries
+### 10 – Intro to Media Queries
 ### 11 – Next Steps
